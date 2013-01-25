@@ -1,0 +1,3 @@
+[submodule "HTML5-History-API"]
+	path = HTML5-History-API
+	url = https://github.com/devote/HTML5-History-API.git
