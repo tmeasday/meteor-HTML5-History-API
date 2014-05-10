@@ -14,7 +14,7 @@ giving older browsers the [HTML5 History API][]
 mrt add HTML5-History-API
 ```
 
-That's it. 
+(That's it. Back to building your awesome Meteor App!)
 
 
 - - - 
@@ -29,7 +29,7 @@ Most of the time you will not interact directly with the History API by writing
 but if you ever want to learn more about (re-)writing history see below.
 
 
-## Background on HTML5 History
+## Background on HTML5 History API
 
 Modern ("Single Page") Web Apps change the url in the browser
 and display fresh content without refreshing the page.
@@ -51,9 +51,7 @@ experience you need to include this package.
 
 See: http://caniuse.com/#search=history
 
-### Useful Background Info
-
-Background Reading:
+### Further Reading
 
 - MDN article: https://developer.mozilla.org/en-US/docs/Web/Guide/API/DOM/Manipulating_the_browser_history
 - How IronRouter uses History: https://github.com/EventedMind/iron-router/blob/dev/lib/client/location.js
